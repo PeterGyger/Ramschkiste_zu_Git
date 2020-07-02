@@ -11,4 +11,11 @@ Natürlich fallen dabei auch viele Informationen an. Ich werde diese hier zusamm
 | Tools  | GitKraken, Git Bash, Visual Studio Code, Git in ZSH, etc.  | 
 | Know How  | Wissen, Tipps  | 
 | Books  | Notizen zu analogen und digitale Büche, Zeitschrifte, etc.  | 
+| Netzbasierte Dienste zur Versionsverwaltung  | Notizen zu GitHub, GitLab, BitBucket, etc.  | 
+
+## Flow
+
+Der GitHub Flow ist einfacher als der Git Flow. Für ein einfaches Projekt wie dieses daher meine Wahl.  
+
+
 
