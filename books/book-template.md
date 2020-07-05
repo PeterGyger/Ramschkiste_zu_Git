@@ -10,5 +10,5 @@ Vorlage für die Buch Notiz
 
 ## Tag(s)  
 
-![Grafik Buch](\image\redbook.jpg)  
+![Grafik Buch](/image/redbook.jpg)  
 
